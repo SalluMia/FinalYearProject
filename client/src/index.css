@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito&display=swap');
+body {
+    background-color: #02325c;
+     /* background-color: #30343f; */
+    
+    /* margin: 0 !important; sara msla yaha hai */
+    font-family: 'Nunito', sans-serif !important;
+    padding: 25px 0 !important;
+}
+
+* {
+    
+    /* margin: 0 !important;
+    padding: 0 !important; */
+}
+.css-19puka6.App-root{
+    /* padding: 0 !important; */
+
+}
+.css-1vp1qdv-MuiGrid-root>.MuiGrid-item {
+    /* padding-left: 16px !important; */
+}
